@@ -1,9 +1,12 @@
 .myBtn {
+    display: flex;
+    justify-content: center;
     margin-top: 5px;
     padding: 5px 15px;
     color: teal;
     font-size: 14px;
     background: transparent;
     border: 1px solid teal;
+    border-radius: 4px;
     cursor: pointer;
 }
